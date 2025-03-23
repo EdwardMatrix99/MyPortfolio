@@ -2,8 +2,15 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      aqui van los pies
+    <div className='footer'>
+
+
+      Facebook, 
+      INstagram, 
+      twitter, 
+      youtube 
+
+
     </div>
   )
 }
