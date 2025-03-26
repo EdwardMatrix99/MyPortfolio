@@ -47,7 +47,7 @@ const Header = () => {
         <ul className="lista">
 
           <li className="nav-item">
-            <a className="enlace" id='casa' href="#about">Home</a>
+            <a className="enlace" id='casa' href="#about">  Casa </a>
           </li>
           <li className="nav-item">
             <a className="enlace" href="#projects">Projects</a>
